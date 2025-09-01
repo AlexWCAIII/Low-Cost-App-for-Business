@@ -2,7 +2,7 @@
   "name": "small-business-cost-simulator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/small-business-cost-simulator",
+  "homepage": "homepage": "https://alexwcaiii.github.io/Cost-Saving-Simulation",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
